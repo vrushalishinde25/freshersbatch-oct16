@@ -1,6 +1,3 @@
-This folder contains all the HTML assignments.
-
+ HEAD
 This folder contains all the CSS assignments.
-{
-here mention the detail.
-}
+css-assignments
